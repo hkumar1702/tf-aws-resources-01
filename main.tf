@@ -6,8 +6,8 @@ provider "aws" {
   region = "${var.aws_region}"
   #access_key = "AKIA2IQL5VREAD2MZLWK"
   #secret_key = "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"
-  #access_key = "AKIA2IQL5VREDTFP5KUH"
-  #secret_key = "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"
+  access_key = "AKIA2IQL5VREEEF6BNUJ"
+  secret_key = "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"
 }
 
 # ---------------------------------------------------------------------------------------------------------------------
